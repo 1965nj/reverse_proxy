@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+  .container{
+    display:flex;
+  }
+  main{
+    width: 100px;
+   padding: 20px;
+    
+  }
+  .sidebar{
+    background:#000;
+    color:#fff;
+    height:100vh;
+  }
+  .top_section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 15px;
+  }
+  
